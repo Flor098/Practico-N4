@@ -1,6 +1,7 @@
 function Obtener(obj) {
     //Obtener y Recorrer las Llaves de un Objeto
     //Aqui tu codigo
+    conso
 
 }
 
@@ -15,6 +16,7 @@ function verificarPassword(usuario, password) {
     // Devuelve "true" si coinciden
     // De lo contrario, devuelve "false"
     // // Tu código:
+    console.log("Hola")
 
 }
 
