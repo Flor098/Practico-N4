@@ -1,22 +1,54 @@
-function Obtener(obj) {
-    //Obtener y Recorrer las Llaves de un Objeto
+//Obtener y Recorrer las Llaves de un Objeto
     //Aqui tu codigo
-    conso
-
+/*    var datos={
+    nombre: "Florencia",
+    apelllido:"Robledo",
+    cumpleaños: "9/8"
 }
+function Obtener(obj) {
+    for (let clave in obj){
 
+        console.log(clave);
+        
+        console.log(obj[clave]);
+        
+        }
+}
+Obtener(datos);*/
+/*var fec=new Date('23 Julio, 2022')
 function Fecha(num) {
     //Escriba una función de JavaScript para obtener el día de una fecha en particular.
     //Aqui tu codigo
-
+var dia=num.getDay();
+switch(dia){
+    case 1: return "Lunes";
+    break
+    case 2: return "Martes";
+    break
+    case 3: return "Miercoles";
+    break
+    case 4: return "Jueves";
+    break
+    case 5: return "Viernes";
+    break
+    case 6: return "Sabado";
+    break
+    case 7: return "Domingo";
+    break
+}
 }
 
-function verificarPassword(usuario, password) {
+console.log(Fecha(fec));*/
+
+
+
+/*function verificarPassword(usuario, password) {
     // Comprueba si la "password" enviada coincide con la propiedad "password" del objeto "usuario"
     // Devuelve "true" si coinciden
     // De lo contrario, devuelve "false"
     // // Tu código:
     console.log("Hola")
+    var a=40
 
 }
 
@@ -44,4 +76,4 @@ function ordenar(array) {
     // A partir del array pasado por parametros, ordenarlo (ascendente o descendente) de la forma que tu quieras
     // Mostrar array ordenado.
     // Tu código:
-}
+}*/
