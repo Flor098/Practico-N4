@@ -2,22 +2,27 @@ Explica los siguientes conceptos con tus propias palabras.
 
 
 
-1 - ¿Que es Math?
+1 - ¿Que es Math? Es un objeeto con propieedadesy metodos
 
 2 - Explica 5 Metodos Math.
+Math.abs():Devuelve el valor absoluto de un número.
+Math.cos():Devuelve el coseno de un número.
+Math.round():Devuelve el número redondeado.
+Math.sin(): Devuelve el seno de un número.
+Math.tan(): Devuelve la tangente de un número.
 
-3 - ¿Que es un String?
+3 - ¿Que es un String?Es una cadena de caracteres. A diferencia de C, en javaScript un string no es un arreglo de char.
 
-4 - ¿Que es un booleano?
+4 - ¿Que es un booleano?Es un tipo de dato, con dos valores: Verrdadero-Falso
 
-5 - ¿Que es una funcion?
+5 - ¿Que es una funcion?Un conjunto de instruccciones para realizar una tarea
 
-6 - Explica la diferencia entre Undefined y Null
+6 - Explica la diferencia entre Undefined y Null. El Undefined indica que no hay valor porqque no se ha definido mientras que null esta vacio porque asi se definió 
 
-7 - ¿Cuales son los operadores de Comparacion?
+7 - ¿Cuales son los operadores de Comparacion? ==,!=,===
 
-8 - ¿Cuales son los operadores Logicos?
+8 - ¿Cuales son los operadores Logicos?||, &&,!
 
-9 - ¿A que hace referencia la palabra Clave o Key?
+9 - ¿A que hace referencia la palabra Clave o Key? Es la propiedad de un objeto
 
-10 - ¿Para que sirve el Bucle for..in ?
+10 - ¿Para que sirve el Bucle for..in ? Para iterar en un objeto
